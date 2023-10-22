@@ -6,7 +6,7 @@
 说明：
 - 本项目使用 Github Actions 下载 [Lean](https://github.com/coolsnowwolf/lede) 的 `Openwrt` 源码仓库，进行云编译。
 - 本项目使用定时编译（北京时间每周日下午4点开始自动运行编译）。
-- 本项目编译固件适配 x86-64 软路由，如需刷机，可直接下载 [releases](https://github.com/kaikai8191/OpenWrt-x86/releases/latest) 内固件。
+- 本项目编译固件适配 `x86-64` 软路由，如需刷机，可直接下载 [releases](https://github.com/kaikai8191/OpenWrt-x86/releases/latest) 内固件。
 - 本项目相对源码默认设置做了如下更改：
 
 **增强项**：（**打勾项**默认**编译**入固件；**未打勾项**默认**不编译**入固件。）
