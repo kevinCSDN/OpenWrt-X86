@@ -25,5 +25,5 @@
   - [x] luci-app-vsftpd
 
 ## 感谢 ❤️
-- 源码来源： Lean 的 Openwrt 源码仓库 https://github.com/coolsnowwolf/lede
-- 脚本来源： P3TERX 的 使用 GitHub Actions 云编译 OpenWrt https://github.com/P3TERX/Actions-OpenWrt
+- 源码来源： [Lean](https://github.com/coolsnowwolf/lede) 的 Openwrt 源码仓库
+- 脚本来源： [P3TERX](https://github.com/P3TERX/Actions-OpenWrt) 的 使用 GitHub Actions 云编译 OpenWrt
