@@ -61,7 +61,7 @@ jobs:
         echo "硬盘数量：$(ls /dev/sd* | grep -v [1-9] | wc -l)" && df -hT  
 
     - name: 精简系统释放磁盘空间 (Ubuntu)
-      uses: jlumbroso/free-disk-space@main
+      uses: kevinCSDN/free-disk-space@main
       with:
         # this might remove tools that are actually needed,
         # if set to "true" but frees about 6 GB
